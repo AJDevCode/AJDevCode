@@ -2,7 +2,7 @@
 ### 👋 Hi there, I'm Abhayjit 👋
 
 ## About Me
- - 👨‍🎓 **Studying Computer Science @YorkU**
+ - 👨‍🎓 **Studying Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
  - ☁️ **Aspiring Cloud Developer** 
  - 💪🏼 **Gym Enthusiast**
