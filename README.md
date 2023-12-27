@@ -12,7 +12,7 @@
  - ⚡ **Learning AWS** 
  - 😄 **Creating A Videogame** 
  - 🌱  **Becoming More Efficient In Other Programming Languages and Tools** 
-   
+
 ## My Skills and Tools
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJDevCode&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
