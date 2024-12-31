@@ -2,16 +2,16 @@
 ### 👋 Hi there, I'm Abhayjit 👋
 
 ## About Me
- - 👨‍🎓 **Studying Computer Science @ YorkU**
+ - 👨‍🎓 **Soon To Be Graduate of Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
  - ☁️ **Aspiring Cloud Developer** 
  - 💪🏼 **Gym Enthusiast**
    
 
 ## What I'm Up To
- - ⚡ **Learning AWS** 
- - 😄 **Creating A Videogame** 
- - 🌱  **Becoming More Efficient In Other Programming Languages and Tools** 
+ - ⚡ **Building My AWS Skillset** 
+ - 😄 **Developing Cloud Applications** 
+ - 🌱  **Being Grateful And Happy** 
 
 ## My Skills and Tools
 <div align="center" style="display: flex; flex-direction: row;">
