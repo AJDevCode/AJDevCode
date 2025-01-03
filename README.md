@@ -1,14 +1,17 @@
+<h1 align="center">Hi 👋, I'm Abhay</h1>
+<h3 align="center">A passionate frontend developer from Toronto, Canada</h3>
 
-### 👋 Hi there, I'm Abhayjit 👋
 
-## About Me
+
+
+### About Me
  - 👨‍🎓 **Soon To Be Graduate of Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
  - ☁️ **Aspiring Cloud Developer** 
  - 💪🏼 **Gym Enthusiast**
    
 
-## What I'm Up To
+### What I'm Up To
  - ⚡ **Building My AWS Skillset** 
  - 😄 **Developing Cloud Applications** 
  - 🌱  **Being Grateful And Happy** 
@@ -43,7 +46,7 @@
  </p>
 
  
-## My Hobbies
+### My Hobbies
 <p>
 <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 <img alt="ADOBE Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe-Creative-Cloud&logoColor=white"/>
@@ -54,16 +57,11 @@
 
 ## Contact Me
 
- <a  href="mailto:atsodhi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/atsodhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atsodhi/" height="30" width="40" /></a>
 </a>
 
-<a href="https://www.linkedin.com/in/atsodhi/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 
 
 
@@ -77,7 +75,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+ 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
