@@ -55,12 +55,12 @@
 </p>
 
 ## Contact Me
-I love connecting with new people and am open to inquiries at atsodhi@gmail.com or on LinkedIn!
+
 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/atsodhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atsodhi/" height="30" width="40" /></a>
 </a>
 
-
+I love connecting with new people and am open to inquiries at atsodhi@gmail.com or on LinkedIn!
 
 
 
