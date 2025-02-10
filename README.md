@@ -7,14 +7,13 @@
 ### About Me
  - 👨‍🎓 **Soon To Be Graduate of Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
- - ☁️ **Aspiring Cloud Developer** 
  - 💪🏼 **I Love Lifting Weights**
    
 
 ### What I'm Up To
- - ⚡ **Currently Pursuing My AWS Certified Cloud Practitioner Certification** 
+ - ☁️ **Currently Pursuing My AWS Certified Cloud Practitioner Certification** 
  - 😄 **Developing Scalable Applications** 
- - 🌱  **Learning Everyday ** 
+ - 🌱 **Learning Everyday** 
 
 ## My Skills and Tools
 <div align="center" style="display: flex; flex-direction: row;">
