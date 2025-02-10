@@ -8,13 +8,13 @@
  - 👨‍🎓 **Soon To Be Graduate of Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
  - ☁️ **Aspiring Cloud Developer** 
- - 💪🏼 **Gym Enthusiast**
+ - 💪🏼 **I Love Lifting Weights**
    
 
 ### What I'm Up To
- - ⚡ **Building My AWS Skillset** 
- - 😄 **Developing Cloud Applications** 
- - 🌱  **Being Grateful And Happy** 
+ - ⚡ **Currently Pursuing My AWS Certified Cloud Practitioner Certification** 
+ - 😄 **Developing Scalable Applications** 
+ - 🌱  **Learning Everyday ** 
 
 ## My Skills and Tools
 <div align="center" style="display: flex; flex-direction: row;">
