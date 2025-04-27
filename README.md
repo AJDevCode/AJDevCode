@@ -5,7 +5,7 @@
 
 
 ### About Me
- - 👨‍🎓 **Soon To Be Graduate of Computer Science @ YorkU**
+ - 👨‍🎓 **Graduate of Computer Science @ YorkU**
  - 📚 **Full Stack Developer** 
  - 💪🏼 **I Love Lifting Weights**
    
