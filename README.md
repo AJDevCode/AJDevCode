@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Abhayjit Sodhi 👋</h1>
-<h3 align="center">A passionate Software Engineer from Toronto, Canada</h3>
+<h3 align="center">A passionate QA Engineer from Toronto, Canada</h3>
 
 
 
