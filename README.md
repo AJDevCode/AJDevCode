@@ -6,7 +6,7 @@
 
 ### About Me
  - 👨‍🎓 **Graduate of Computer Science @ YorkU**
- - 📚 **Full Stack Developer** 
+ - 📚 **Proficient in SQL, Python, and Java** 
  - 💪🏼 **I Love Lifting Weights**
    
 
